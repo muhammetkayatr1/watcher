@@ -1,0 +1,39 @@
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1.0.csprojAssemblyReference.cache
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1._0.Form1.resources
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1._0.Properties.Resources.resources
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1.0.csproj.GenerateResource.cache
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1.0.csproj.CoreCompileInputs.cache
+D:\Wather1.0\Wather1.0\bin\Debug\Wather1.0.exe.config
+D:\Wather1.0\Wather1.0\bin\Debug\Wather1.0.exe
+D:\Wather1.0\Wather1.0\bin\Debug\Wather1.0.pdb
+D:\Wather1.0\Wather1.0\bin\Debug\WebDriver.dll
+D:\Wather1.0\Wather1.0\bin\Debug\WebDriver.xml
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1.0.csproj.CopyComplete
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1.0.exe
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1.0.pdb
+D:\Wather1.0 - Kopya\Wather1.0\bin\Debug\Wather1.0.exe.config
+D:\Wather1.0 - Kopya\Wather1.0\bin\Debug\Wather1.0.exe
+D:\Wather1.0 - Kopya\Wather1.0\bin\Debug\Wather1.0.pdb
+D:\Wather1.0 - Kopya\Wather1.0\bin\Debug\WebDriver.dll
+D:\Wather1.0 - Kopya\Wather1.0\bin\Debug\WebDriver.xml
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1.0.csprojAssemblyReference.cache
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1._0.Form1.resources
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1._0.Properties.Resources.resources
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1.0.csproj.GenerateResource.cache
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1.0.csproj.CoreCompileInputs.cache
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1.0.csproj.CopyComplete
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1.0.exe
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1.0.pdb
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\bin\Debug\Wather1.0.exe.config
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\bin\Debug\Wather1.0.exe
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\bin\Debug\Wather1.0.pdb
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\bin\Debug\WebDriver.dll
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\bin\Debug\WebDriver.xml
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1.0.csprojAssemblyReference.cache
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1._0.Form1.resources
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1._0.Properties.Resources.resources
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1.0.csproj.GenerateResource.cache
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1.0.csproj.CoreCompileInputs.cache
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1.0.csproj.CopyComplete
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1.0.exe
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1.0.pdb
